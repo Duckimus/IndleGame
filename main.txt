@@ -1,0 +1,31 @@
+// This is a comment!
+/*
+This is another type
+of comment!
+*/
+
+Let's make a game!
+	name: Test Clicker
+	author: Duckimus#3888(Discord)
+	created: 11/16/2022
+	updated: 11/16/2022
+	version: 0.1 Alpha
+	
+Settings
+	spritesheet:Button, 48 by 48, https://raw.githubusercontent.com/Duckimus/idlegame/main/clickerbutton.png?token=GHSAT0AAAAAAB3JNNSH3F4WRVXJ2ODDSL6OY3WIBAQ
+
+Layout
+	use default
+
+Buttons
+	*button
+	name: Button
+	desc: Click Me!
+	on click:
+		icon:https://raw.githubusercontent.com/Duckimus/idlegame/main/clickerbutton-2.big.png?token=GHSAT0AAAAAAB3JNNSHRNB2V4L4DEFUZMSAY3WJJAA
+	end
+	no text
+	icon:https://raw.githubusercontent.com/Duckimus/idlegame/main/clickerbutton-1big.png?token=GHSAT0AAAAAAB3JNNSGL3O47LNTQGKSUDPEY3WJD4A
+	class:bigButton
+	icon class:shadowed
+	tooltip origin:bottom

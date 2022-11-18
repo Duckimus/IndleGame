@@ -15,6 +15,12 @@ Settings
 
 Layout
 	use default
+	
+Resources
+	*Punches
+	name: Punches
+	desc: How many times you punched the wall, unless you sell them for a ninja or something
+	show earned
 
 Buttons
 	*Button1

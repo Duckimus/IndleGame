@@ -5,27 +5,25 @@ of comment!
 */
 
 Let's make a game!
-	name: Test Clicker
-	author: Duckimus#3888(Discord)
-	created: 11/16/2022
-	updated: 11/16/2022
-	version: 0.1 Alpha
+	name:Wall Punching Simulator
+	author:Duckimus#3888(Discord)
+	created:11/16/2022
+	updated: 11/18/2022
 	
 Settings
-	spritesheet:Button, 48 by 48, https://raw.githubusercontent.com/Duckimus/idlegame/main/clickerbutton.png?token=GHSAT0AAAAAAB3JNNSH3F4WRVXJ2ODDSL6OY3WIBAQ
+	backround:https://raw.githubusercontent.com/Duckimus/IndleGame/main/assets/227630.png
 
 Layout
 	use default
+	
+Resources
+	*
 
 Buttons
-	*button
-	name: Button
-	desc: Click Me!
-	on click:
-		icon:https://raw.githubusercontent.com/Duckimus/IndleGame/main/images/clickerbutton-2big.png
-	end
+	*Button1
+	name:Wall
+	desc:Punch me.. if you got the guts
 	no text
-	icon:https://raw.githubusercontent.com/Duckimus/IndleGame/main/images/clickerbutton-1big.png
 	class:bigButton
 	icon class:shadowed
 	tooltip origin:bottom

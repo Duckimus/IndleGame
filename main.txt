@@ -22,10 +22,10 @@ Buttons
 	name: Button
 	desc: Click Me!
 	on click:
-		icon:https://raw.githubusercontent.com/Duckimus/idlegame/main/clickerbutton-2.big.png?token=GHSAT0AAAAAAB3JNNSHRNB2V4L4DEFUZMSAY3WJJAA
+		icon:https://raw.githubusercontent.com/Duckimus/IndleGame/main/images/clickerbutton-2big.png
 	end
 	no text
-	icon:https://raw.githubusercontent.com/Duckimus/idlegame/main/clickerbutton-1big.png?token=GHSAT0AAAAAAB3JNNSGL3O47LNTQGKSUDPEY3WJD4A
+	icon:https://raw.githubusercontent.com/Duckimus/IndleGame/main/images/clickerbutton-1big.png
 	class:bigButton
 	icon class:shadowed
 	tooltip origin:bottom

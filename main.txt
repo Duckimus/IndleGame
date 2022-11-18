@@ -15,9 +15,6 @@ Settings
 
 Layout
 	use default
-	
-Resources
-	*
 
 Buttons
 	*Button1

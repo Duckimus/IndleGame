@@ -26,6 +26,7 @@ Buttons
 	*Button1
 	name:Wall
 	desc:Punch me.. if you got the guts
+	on click: yield one Punches
 	no text
 	class:bigButton
 	icon class:shadowed
